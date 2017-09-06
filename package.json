@@ -1,0 +1,19 @@
+{
+  "name": "moneySystem",
+  "version": "0.0.1",
+  "description": "moneySystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a973829224/moneySystem.git"
+  },
+  "author": "a973829224",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
